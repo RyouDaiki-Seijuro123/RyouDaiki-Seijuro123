@@ -3,7 +3,7 @@ Olá, bem-vindos ao meu perfil.
 Meu nome é Daniel Dias
 - Atualmente estudo cursos da Alura sobre programação
 - Estou aprendendo a linguagem JavaScript
-- E a aqui, mostrarei alguns de meus projetos, organizarei alguns deles para melhor entendimento
+- E aqui, mostrarei alguns de meus projetos, organizarei alguns deles para melhor entendimento
 
 Para entrar em contato comigo:
 - Email pessoal: daniel.donquixote@gmail.com
