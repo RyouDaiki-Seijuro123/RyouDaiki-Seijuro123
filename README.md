@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, bem-vindos ao meu perfil.
 
-<!--
-**RyouDaiki-Seijuro123/RyouDaiki-Seijuro123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel Dias
+- Atualmente estudo cursos da Alura sobre programação
+- Estou aprendendo a linguagem JavaScript
+- E a aqui, mostrarei alguns de meus projetos, organizarei alguns deles para melhor entendimento
 
-Here are some ideas to get you started:
+Para entrar em contato comigo:
+- Email pessoal: daniel.donquixote@gmail.com
+- Email institucional: 00001082849054sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Segue alguns dos meus projetos:
+- Esse é meu primeiro projeto utilizando JavaScript: https://editor.p5js.org/Dan_RyouDaiki123/sketches/HmLfRl92D
+- Aqui é um segundo projeto Java que mostra nomes aleatórios: https://editor.p5js.org/Dan_RyouDaiki123/sketches/WJs9TOY-R
